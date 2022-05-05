@@ -35,7 +35,7 @@ wikipedia
 zalgo-text
 search_engine_parser
 fontTools
-pyrogram
+pyrogram==1.4.0
 nekos.py
 telegraph
 tgCrypto>=1.2.2
